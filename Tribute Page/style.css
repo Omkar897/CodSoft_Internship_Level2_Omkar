@@ -1,0 +1,57 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  overflow: auto;
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.Steve_image {
+  width: 450px;
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 50px;
+}
+
+.main_body {
+  text-align: justify;
+  font-family: monospace;
+  font-size: 25px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+
+.main_heading {
+  font-family: monospace;
+  font-size: 35px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+.conclusion_line {
+  font-family: monospace;
+  font-size: 35px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
